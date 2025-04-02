@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: drake;
+    src: url("/assets/fonts/DrukWide-Bold-Web.ttf");
+}
+@font-face {
+    font-family: pop;
+    src: url("/assets/fonts/Poppins-Regular.ttf");
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #000;
+}
