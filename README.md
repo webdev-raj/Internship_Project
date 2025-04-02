@@ -20,6 +20,6 @@ This project is a **pixel-perfect replication** of the [PHA5E website](https://w
 - **Responsive Design:** Leveraged Tailwind CSS for a scalable and adaptable layout across all devices.  
 
 ## Live Preview  
-[View the Project](https://internship-project-rnux9m7xu-webdev-rajs-projects.vercel.app/)  
+[View the Project](https://internship-project-git-main-webdev-rajs-projects.vercel.app/)  
 
 ---
